@@ -1,1 +1,1 @@
-![](screenshot.png)
+![](screenshot.png width="48")

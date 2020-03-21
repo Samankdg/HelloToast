@@ -1,1 +1,1 @@
-![](screenshot.png)
+![](screenshot.png =24x24)
